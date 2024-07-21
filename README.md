@@ -71,10 +71,33 @@ Contributors :
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Hereby we come to an end of the EDA of the loan data set and finding some of the drivers for loan default. 
+Apart from the ones highlighted below, I am sure there will be multiple others too; however, according to me, these are the most impactful ones.
+
+<b>Minor Impact</b> <br>
+.Higher loan amount (above 16K) <br>
+•Higher installment amount (above 327) <br>
+•Lower annual income (below 37K)<br> 
+•Higher debt to income ratio (above 15%) <br>
+•Applicant’s address state (NV, SD, AK, FL, etc.) <br>
+•Loan issue month (Dec, May, Sep)<br>
+
+<b>Heavy impact</b> <br>
+•Higher interest rate (above 13%) <br>
+•Higher revolving line utilization rate (above 58%) <br>
+•Repayment term (5 years)<br> 
+•Loan grade & sub-grade (D to G) <br>
+•Missing employment record<br> 
+•Loan purpose (small business, renewable energy, educational) <br>
+•Derogatory public records (1 or 2) <br>
+•Public bankruptcy records (1 or 2)<br>
+
+<b>Combined impact</b> <br>
+•High loan amount & interest rate for lower income group <br>
+•High installment and longer repayment term <br>
+•Home ownership (other) and loan purpose (car, moving or small business) <br>
+•Residential state and loan purpose<br> 
+•Income group and loan purpose<br>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
