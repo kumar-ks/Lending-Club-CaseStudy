@@ -31,17 +31,11 @@ If one is able to identify these risky loan applicants, then such loans can be r
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
 
-Step 1: Data Cleaning 
-Step 2: Univariate Analysis
-Step 3: Segmented Univariate Analysis
-Step 4: Bivaraiate/Multivariate Analysis
-Step 5: Business Conclusion
-
-
-<b>Contributors : </b><br>
-
-• Kumar KS<br>
-• Dilpreet Kaur<br>
+Step 1: Data Cleaning <br>
+Step 2: Univariate Analysis <br>
+Step 3: Segmented Univariate Analysis<br>
+Step 4: Bivaraiate/Multivariate Analysis<br>
+Step 5: Business Conclusion<br>
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -104,6 +98,11 @@ Give credit here.
 - This project was inspired by Upgrad "Lending Case Group Case Study"
 - This project was based on EPGP AI & ML with Upgrad ! 
 
+
+<b>Contributors : </b><br>
+
+• Kumar KS<br>
+• Dilpreet Kaur<br>
 
 ## Contact
 Created by [@kumar-ks][@dilpreetkaur-510] - feel free to contact Us!
