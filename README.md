@@ -34,7 +34,7 @@ In other words, the company wants to understand the driving factors (or driver v
 Step 1: Data Cleaning <br>
 Step 2: Univariate Analysis <br>
 Step 3: Segmented Univariate Analysis<br>
-Step 4: Bivaraiate/Multivariate Analysis<br>
+Step 4: Bivariate/Multivariate Analysis<br>
 Step 5: Business Conclusion<br>
 
 ## Table of Contents
@@ -55,7 +55,7 @@ Step 5: Business Conclusion<br>
 
 ## Conclusions
 - Hereby we come to an end of the EDA of the loan data set and finding some of the drivers for loan default. 
-Apart from the ones highlighted below, I am sure there will be multiple others too; however, according to me, these are the most impactful ones.
+Apart from the ones highlighted below, I am sure there will be multiple others too; however, according to us, these are the most impactful ones.
 
 <b>Minor Impact</b> <br>
 .Higher loan amount (above 16K) <br>
@@ -98,11 +98,6 @@ Give credit here.
 - This project was inspired by Upgrad "Lending Case Group Case Study"
 - This project was based on EPGP AI & ML with Upgrad ! 
 
-
-<b>Contributors : </b><br>
-
-• Kumar KS<br>
-• Dilpreet Kaur<br>
 
 ## Contact
 Created by [@kumar-ks][@dilpreetkaur-510] - feel free to contact Us!
