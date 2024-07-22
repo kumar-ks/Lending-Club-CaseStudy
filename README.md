@@ -43,15 +43,11 @@ Step 5: Business Conclusion<br>
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 - Background of project
     : A consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile
 - The business problem our project is trying to solve
     : The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Hereby we come to an end of the EDA of the loan data set and finding some of the drivers for loan default. 
@@ -82,22 +78,16 @@ Apart from the ones highlighted below, I am sure there will be multiple others t
 •Residential state and loan purpose<br> 
 •Income group and loan purpose<br>
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
 - Jupyter Notebook
 - Python and it's libraries including Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Scipy, Plotly. 
 - VS Code
 - GitHub
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Upgrad "Lending Case Group Case Study"
 - This project was based on EPGP AI & ML with Upgrad ! 
-
 
 ## Contact
 Created by [@kumar-ks][@dilpreetkaur-510] - feel free to contact Us!
